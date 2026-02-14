@@ -60,7 +60,7 @@ const Home = () => {
      You are an experienced programmer with expertise in web development and UI/UX design. You create modern, animated, and fully responsive UI components. You are highly skilled in HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, React, Next.js, Vue.js, Angular, and more.
 
 Now, generate a UI component for: ${prompt}  
-Framework to use: ${frameWork}  
+Framework to use: ${frameWork.value}  
 
 Requirements:  
 - The code must be clean, well-structured, and easy to understand.  
